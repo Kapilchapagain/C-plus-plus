@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+class B; //forward declaration
 class A{
 	int cm;
 	public:
