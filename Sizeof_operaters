@@ -14,6 +14,7 @@ class Datatype
 		cout<<"Size of short integer:"<<sizeof(short)<<" Bytes"<<endl;
 		cout<<"Size of long integer:"<<sizeof(long)<<" Bytes"<<endl;
 		cout<<"Size of boolean:"<<sizeof(bool)<<" Bytes"<<endl; 
+                cout<<"Size of long long:"<<sizeof(long long)<<" Bytes"<<endl; 
 	}
 };
 int main()
