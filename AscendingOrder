@@ -28,7 +28,7 @@ using namespace std;
 					}	
 		   	    }
 	    	}
-			cout<<"Numbers in ascending order: "<<endl;
+			cout<<"Numbers in ascending order are: "<<endl;
 			for(i=0;i<n;i++)
 			{
 				cout<<arr[i]<<" ";
