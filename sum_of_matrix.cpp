@@ -48,7 +48,7 @@ class Addition_Array
 					sum[i][j]=arr1[i][j]+arr2[i][j];
 				}
 			}
-			cout<<"The sum of two array elements in matrix form is: "<<endl;
+			cout<<"The sum of two array elements in a matrix form is: "<<endl;
 			for(i=0;i<r1;i++)
 			{
 				for(j=0;j<c1;j++)
