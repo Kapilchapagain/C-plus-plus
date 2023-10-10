@@ -22,8 +22,8 @@ class triangle
 int main()
 {
 	triangle obj;
-	area.getdata();
-	area.calculate_area();
+	obj.getdata();
+	obj.calculate_area();
 	return 0;
  
 }
